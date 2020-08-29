@@ -13,4 +13,5 @@ Release date: 8.29.2020 (Afternoon)
 What was added:
 * Drag and drop ability!
 * Ability to cancel in progress deobfuscation!
+* Small bugs fixed!
 #
