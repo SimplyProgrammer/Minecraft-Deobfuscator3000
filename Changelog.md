@@ -15,3 +15,13 @@ What was added:
 * Ability to cancel in progress deobfuscation!
 * Small bugs fixed!
 #
+
+# Deobfuscator3000 1.1.0
+
+Release date: 9.2.2020 (Afternoon)
+
+What was added:
+* New log console with colors!
+* Handling application close during deobfuscation!
+* Confirmation before overriding an existing folder!
+* Small bugs and missthinks fixed!
