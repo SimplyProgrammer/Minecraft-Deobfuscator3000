@@ -25,3 +25,19 @@ What was added:
 * Handling application close during deobfuscation!
 * Confirmation before overriding an existing folder!
 * Small bugs and missthinks fixed!
+#
+
+# Deobfuscator3000 1.2.0
+
+Release date: 9.2.2021 (Afternoon)
+
+What was added:
+* Small cosmetic UI changes (mostly code)!
+* Application now has min size so it cant be sized down too much!
+* Fixing a bug when replaced files being messed up!
+* Fixing a bug when console was not cleared when ctrl + middle click was issued!
+* Console now allows for horizontal scrolling when window is too small!
+* Application is now wrapped into setup installer together with java runtime effectively eliminating necessity of you having java on your device!
+* Procyon decompiler implemented together with deobfuscator so deobfuscator 3000 is now effectively java decompiler ass well while eliminating necessity of you having your mods predecompiled as well!
+* Note: Implementation of decompiler is not the best one yet because it cant properly deal with inner and nested classes and its performance is questionable as well!
+#
