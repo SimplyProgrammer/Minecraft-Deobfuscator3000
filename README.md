@@ -13,8 +13,8 @@ It also has more user-friendly UI with tooltips, logging console and other thing
 ## Since 1.2.0
 Since application was wrapped into installer and procyon decompiler was implemented, using procedure is now far easier!
 1. Select deobfuscation mappings!
-2. Select your mods .jar file and make sure that the checkbox is checked!
-3. Click on deobfuscate, wait for it to finish and you are basically done (decompiled and deobfuscate mod sources will appear in the same folder as you mod jar)!
+2. Select your mods .jar file and make sure that checkbox is checked!
+3. Click on deobfuscate, wait for it to finish and you are basically done (decompiled and deobfuscate mod sources will appear in the same folder as you mod jar file)!
 
 # Decompiler
 1.2.0 has implemented Procyon decompiler together with deobfuscator however it cant deal with nested classes yet and also it's pretty slow which I am currently discussing with its developers in [issues](https://github.com/mstrobel/procyon/issues/25)! If you know how to fix it please answer my issue on their issues page!
