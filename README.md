@@ -11,7 +11,7 @@ It also has more user-friendly UI with tooltips, logging console and other thing
 4. After decompiling your mod, all what you need to do is select the path of the downloaded zip into the second text field and hit "Deobfuscate" button that supposed to be active by this time. If it is not there is most likely something wrong with deobfuscation mappings path or mods zip path. In this case the path in the text area will be red otherwise there should be no problem!
 5. After clicking on "Deobfuscate" button program will take a while to deobfuscate the selected mod using selected mappings. Unzipped folder with deobfuscated mod sources will appear on your desktop. Now you have decompiled and deobfuscated mod sources to work with.
 ## Since 1.2.0
-Since application was wrapped into installer and procyon decompiler was implemented using procedure is now far easier!
+Since application was wrapped into installer and procyon decompiler was implemented, using procedure is now far easier!
 1. Select deobfuscation mappings!
 2. Select your mods .jar file and make sure that the checkbox is checked!
 3. Click on deobfuscate, wait for it to finish and you are basically done (decompiled and deobfuscate mod sources will appear in the same folder as you mod jar)!
