@@ -25,4 +25,4 @@ Deobfuscation mappings are instructions for deobfuscator! They supposed to be a 
 
 # Info
 1. If your mods files were not deobfuscated correctly it is most likely not the deobfuscators fault but invalid mappings! Make sure your mappings are for same minecraft version as your mod is! If you have encountered some other issues please feel free to report it! Also always download the latest version of deobfuscator! 
-2. Deobfuscator will unzip your .jar files while creating folders in process and during deobfuscation it will be editing created files in your system or even changing their extensions (.class -> .java) which is something that your antivirus might not like! In that case, I would recommend disabling your antivirus or add Deobfuscator app as scan exception!
+2. Deobfuscator will unzip your .jar files while creating folders in process and during deobfuscation it will be editing created files in your system or even changing their extensions (.class -> .java) which is something that your antivirus might not like! In such a case, I would recommend disabling your antivirus or add Deobfuscator app as scan exception!
