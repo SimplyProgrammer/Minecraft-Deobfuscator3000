@@ -37,7 +37,8 @@ What was added:
 * Fixing a bug when replaced files being messed up!
 * Fixing a bug when console was not cleared when ctrl + middle click was issued!
 * Console now allows for horizontal scrolling when window is too small!
-* Application is now wrapped into setup installer together with java runtime effectively eliminating necessity of you having java on your device!
-* Procyon decompiler implemented together with deobfuscator so deobfuscator 3000 is now effectively java decompiler ass well while eliminating necessity of you having your mods predecompiled as well!
+* Application is now wrapped into setup installer together with java runtime, effectively eliminating necessity of you having java on your device!
+* Procyon decompiler is now implemented together with deobfuscator so Deobfuscator3000 is now effectively java decompiler as well while eliminating necessity of you having your mods predecompiled before deobfuscating!
+* Small bugs fixed!
 * Note: Implementation of decompiler is not the best one yet because it cant properly deal with inner and nested classes and its performance is questionable as well!
 #
