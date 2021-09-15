@@ -12,13 +12,10 @@ It also has more user-friendly UI with tooltips, logging console and other thing
 5. After clicking on "Deobfuscate" button program will take a while to deobfuscate the selected mod using selected mappings. Unzipped folder with deobfuscated mod sources will appear on your desktop. Now you have decompiled and deobfuscated mod sources to work with.
 ## Since 1.2.0
 Since application was wrapped into installer and procyon decompiler was implemented, using procedure is now far easier!
-1. Select deobfuscation mappings!
-2. Select your mods .jar file and make sure that checkbox is checked!
-3. Click on deobfuscate, wait for it to finish and you are basically done (decompiled and deobfuscate mod sources will appear in the same folder as you mod jar file)!
-
-# Decompiler
-1.2.0 has implemented Procyon decompiler together with deobfuscator however it cant deal with nested classes yet and also it's pretty slow which I am currently discussing with its developers in [issues](https://github.com/mstrobel/procyon/issues/25)! If you know how to fix it please answer my issue on their issues page!
-But until all problems are fixed I would recommend using [external decompiler](http://www.javadecompilers.com/) as before 1.2.0!
+1. Download and install deobfuscator from [here](https://drive.google.com/uc?export=download&id=1rGNEUmifdM7jomaKo_O6nyKTTUBrHk7_)!
+2. Select deobfuscation mappings!
+3. Select your mods .jar file and make sure that checkbox is checked!
+4. Click on deobfuscate, wait for it to finish and you are basically done (decompiled and deobfuscate mod sources will appear in the same folder as you mod jar file)!
 
 # Valid deobfuscation mappings composition
 Deobfuscation mappings are instructions for deobfuscator! They supposed to be a .csv (excel format) file or group of 3 files, the fields, methods, and params (each is optional since 1.0.5 but must be at least one of them) in one folder! Inside these files there supposed to be some sort of map with keys and values! These keys supposed to be in the first column of excel file and must contains at last one "\_" or since 1.1.0, can alternatively starts with "#" and then do not need to contains "\_"! And second column in excel file supposed to be the values for the keys. These values can be anything, there are no limits! But value should not be the same as key is and also should not be empty!
