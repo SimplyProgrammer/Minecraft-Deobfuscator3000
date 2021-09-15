@@ -42,3 +42,17 @@ What was added:
 * Small bugs fixed!
 * Note: Implementation of decompiler is not the best one yet because it cant properly deal with inner and nested classes and its performance is questionable as well!
 #
+
+# Deobfuscator3000 1.2.2
+
+Release date: 9.15.2021 (Evening)
+
+What was added:
+* Decompiler is now fully functional, it can deal with inner and nested classes!
+* Performance of decompiler was increased approximately 3 times!
+* Now on, extracted directory will not be removed after cancelation of process so you can continue deobfuscation!
+* Progress bar!
+* Small quality of life changes!
+* Small bugs fixed!
+* Note: .exe file in repository still requires java to work but you can download setup from the link in "Since 1.2.0" section that will install application that does not need java!
+#
