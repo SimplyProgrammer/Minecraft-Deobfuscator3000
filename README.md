@@ -15,7 +15,7 @@ Since application was wrapped into installer and procyon decompiler was implemen
 1. Download and install deobfuscator from [here](https://downloaddeobfuscator3000.netlify.app/files/Deobfuscator3000%20setup.exe)!
 2. Select deobfuscation mappings or download them from [MCP](http://www.modcoderpack.com/)!
 3. Select your mods .jar file and make sure that checkbox is checked!
-4. Click on deobfuscate, wait for it to finish and you are basically done (decompiled and deobfuscate mod sources will appear in the same folder as you mod jar file)!
+4. Click on "Deobfuscate", wait for it to finish and you are basically done (decompiled and deobfuscate mod sources will appear in the same folder as you mod jar file)!
 
 # Valid deobfuscation mappings composition
 Deobfuscation mappings are instructions for deobfuscator! They supposed to be a .csv (excel format) file or group of 3 files, the fields, methods, and params (each is optional since 1.0.5 but must be at least one of them) in one folder! Inside these files there supposed to be some sort of map with keys and values! These keys supposed to be in the first column of excel file and must contains at last one "\_" or since 1.1.0, can alternatively starts with "#" and then do not need to contains "\_"! And second column in excel file supposed to be the values for the keys. These values can be anything, there are no limits! But value should not be the same as key is and also should not be empty!
