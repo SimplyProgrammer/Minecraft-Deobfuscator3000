@@ -12,7 +12,7 @@ It also has more user-friendly UI with tooltips, logging console and other thing
 5. After clicking on "Deobfuscate" button program will take a while to deobfuscate the selected mod using selected mappings. Unzipped folder with deobfuscated mod sources will appear on your desktop. Now you have decompiled and deobfuscated mod sources to work with.
 ## Since 1.2.0
 Since application was wrapped into installer and procyon decompiler was implemented, using procedure is now far easier!
-1. Download and install deobfuscator from [here](https://downloaddeobfuscator3000.netlify.app/files/Deobfuscator3000%20setup.exe)!
+1. Download and install deobfuscator from [here](https://download-deobfuscator3000.netlify.app/files/Deobfuscator3000%20setup.exe)!
 2. Select deobfuscation mappings or download them from [MCP](http://www.modcoderpack.com/)!
 3. Select your mods .jar file and make sure that checkbox is checked!
 4. Click on "Deobfuscate", wait for it to finish and you are basically done (decompiled and deobfuscate mod sources will appear in the same folder as you mod jar file)!
