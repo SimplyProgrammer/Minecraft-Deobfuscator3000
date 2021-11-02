@@ -56,3 +56,16 @@ What was added:
 * Small bugs fixed!
 * Note: .exe file in repository still requires java to work but you can download setup from the link in "Since 1.2.0" section that will install application that does not need java!
 #
+
+# Deobfuscator3000 1.2.3
+
+Release date: 9.15.2021 (Night)
+
+What was added:
+* Small quality of life changes!
+* Restricting possible mod paths, hard drives are now restricted!
+* Log now has on right click simple context menu!
+* Small bugs fixed!
+* Size of instalable application reduced by aproximatly 100MB!
+#
+
