@@ -66,6 +66,6 @@ What was added:
 * Restricting possible mod paths, hard drives are now restricted!
 * Log now has on right click simple context menu!
 * Small bugs fixed!
-* Size of instalable application reduced by aproximatly 100MB!
+* Size of installable application reduced by approximately 100MB!
 #
 
