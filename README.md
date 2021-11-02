@@ -2,7 +2,8 @@
 Deobfuscator3000 is a universal tool for deobfuscating minecraft mods! It meant to be upgraded and improved variant of BON that was abandoned by its authors a long time ago.
 Compare to BON this one allows you to choose obfuscation mappings by your self and it can decompile and deobfuscate your mod all at once!
 Deobfuscator3000 can also deobfuscate individual java files and it can also works with zip files not only jars!
-It also has more user-friendly UI with tooltips, logging console and other things! Deobfuscator3000 perfect choice for minecraft modders that lost their source code or for anyone that is interested in sources of other mods!
+It also has more user-friendly UI with tooltips, logging console and other things! 
+Deobfuscator3000 perfect choice for minecraft modders that lost their source code or for anyone that is interested in sources of other mods!
 
 # How to use
 1. As well as BON, Deobfuscator3000 is programmed in Java so you need Java to run it!
